@@ -1,0 +1,14 @@
+# Exclude node modules
+node_modules/
+
+# Exclude distribution files
+/dist/
+
+# Exclude environment variables
+.env
+
+# Exclude macOS specific files
+.DS_Store
+
+# Exclude log files
+*.log
